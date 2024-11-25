@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: mee-islyna6653-rotanakkosal-next-container
-          image: pipejet/mee-islyna6653-rotanakkosal-next:0
+          image: pipejet/mee-islyna6653-rotanakkosal-next:1
           ports:
             - containerPort: 3000
